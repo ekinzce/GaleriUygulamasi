@@ -1,0 +1,8 @@
+C:\Users\ekinz\OneDrive\Masaüstü\Cv-Projeler\WindowsForm\GaleriUygulaması\GaleriUygulaması\obj\Debug\net6.0-windows\GaleriUygulamasi.csproj.AssemblyReference.cache
+C:\Users\ekinz\OneDrive\Masaüstü\Cv-Projeler\WindowsForm\GaleriUygulaması\GaleriUygulaması\obj\Debug\net6.0-windows\GaleriUygulaması.Form1.resources
+C:\Users\ekinz\OneDrive\Masaüstü\Cv-Projeler\WindowsForm\GaleriUygulaması\GaleriUygulaması\obj\Debug\net6.0-windows\GaleriUygulamasi.Properties.Resources.resources
+C:\Users\ekinz\OneDrive\Masaüstü\Cv-Projeler\WindowsForm\GaleriUygulaması\GaleriUygulaması\obj\Debug\net6.0-windows\GaleriUygulamasi.csproj.GenerateResource.cache
+C:\Users\ekinz\OneDrive\Masaüstü\Cv-Projeler\WindowsForm\GaleriUygulaması\GaleriUygulaması\obj\Debug\net6.0-windows\GaleriUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekinz\OneDrive\Masaüstü\Cv-Projeler\WindowsForm\GaleriUygulaması\GaleriUygulaması\obj\Debug\net6.0-windows\GaleriUygulamasi.AssemblyInfoInputs.cache
+C:\Users\ekinz\OneDrive\Masaüstü\Cv-Projeler\WindowsForm\GaleriUygulaması\GaleriUygulaması\obj\Debug\net6.0-windows\GaleriUygulamasi.AssemblyInfo.cs
+C:\Users\ekinz\OneDrive\Masaüstü\Cv-Projeler\WindowsForm\GaleriUygulaması\GaleriUygulaması\obj\Debug\net6.0-windows\GaleriUygulamasi.csproj.CoreCompileInputs.cache
